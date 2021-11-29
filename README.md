@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+My name is Viktor
+I am just learning to code.
+This is my first project.
